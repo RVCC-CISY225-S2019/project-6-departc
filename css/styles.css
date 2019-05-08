@@ -1,0 +1,26 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+
+}
+
+img {
+  max-width: 100%;
+}
+
+textarea, select, button {
+  width: 150px;
+  margin: 0;
+}
+
+legend {
+  display: block;
+  padding-left: 2px;
+  padding-right: 2px;
+  border: none;
+}
+
+input:focus {
+  color: inherit;
+  background: white;
+}
